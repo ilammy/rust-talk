@@ -1,0 +1,8 @@
+[package]
+name = "hello-world-3"
+version = "0.1.0"
+authors = ["ilammy <a.lozovsky@gmail.com>"]
+
+[dependencies]
+actix-web = "=0.7.3"
+rand = "=0.5.4"
