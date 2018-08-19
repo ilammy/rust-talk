@@ -1,6 +1,5 @@
 /// Computes Fibonacci number with given index.
-#[allow(unused)]
-fn fib(n: u32) -> u32 {
+pub fn fib(n: u32) -> u32 {
     let mut r = 1;
     let mut p = 1;
 
